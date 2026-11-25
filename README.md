@@ -1,6 +1,6 @@
 # cli-workbench
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10B981?style=for-the-badge)](https://aetherx86.github.io/cli-workbench/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10B981?style=for-the-badge)](https://omakasekim.github.io/cli-workbench/)
 [![CLI Companion](https://img.shields.io/badge/Plugin-Node%20CLI-0EA5E9?style=for-the-badge)](#plugin-installation)
 [![License: MIT](https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge)](LICENSE)
 
